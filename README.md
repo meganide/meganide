@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meganide" alt="meganide" /></a> </p>
 
-- 🔭 I’m currently working on [Chatify](https://github.com/meganide/chat-app)
+
+- 🔭 I’m currently working on [Tweeter](https://github.com/meganide/Tweeter)
+
+- 💻 My latest project [Chatify](https://github.com/meganide/chat-app)
 
 - 🌱 I’m currently learning **Advanced React topics, Socket.IO, more NodeJS, Tailwind.**
 
