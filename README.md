@@ -6,19 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meganide" alt="meganide" /></a> </p>
 
 
-- 🔭 I’m currently working on [Tweeter](https://github.com/meganide/Tweeter)
-
-- 💻 My latest project [Chatify](https://github.com/meganide/chat-app)
-
-- 🌱 I’m currently learning **Advanced React topics, Socket.IO, more NodeJS, Tailwind.**
 
 - 👨‍💻 All of my projects are available at [https://renas.se/](https://renas.se/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React & NodeJS.**
+- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, NextJS & NodeJS.**
 
 - 📫 How to reach me **renashassan@hotmail.com**
-
-- 📄 Resume [https://renas.se/assets/cv.pdf](https://renas.se/assets/cv.pdf)
 
 - ⚡ Fun fact **The first computer mouse was invented in 1964 by Douglas Engelbart. It was made of wood and had only one button.**
 
