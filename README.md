@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://renas.se/](https://renas.se/)
+- 👨‍💻 Portfolio: [https://renas.se/](https://renas.se/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, NextJS & NodeJS.**
 
