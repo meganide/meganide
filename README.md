@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 Portfolio: [https://renas.se/](https://renas.se/)
+- 👨‍💻 Blog & Portfolio: [https://renasdev.com/](https://renasdev.com/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, NextJS & NodeJS.**
 
